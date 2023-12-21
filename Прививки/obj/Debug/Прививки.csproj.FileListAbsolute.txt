@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Прививки\bin\Debug\Прививки.exe.config
+C:\Users\User\source\repos\Прививки\bin\Debug\Прививки.exe
+C:\Users\User\source\repos\Прививки\bin\Debug\Прививки.pdb
+C:\Users\User\source\repos\Прививки\obj\Debug\Прививки.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Прививки\obj\Debug\Прививки.Form1.resources
+C:\Users\User\source\repos\Прививки\obj\Debug\Прививки.Form2.resources
+C:\Users\User\source\repos\Прививки\obj\Debug\Прививки.Properties.Resources.resources
+C:\Users\User\source\repos\Прививки\obj\Debug\Прививки.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Прививки\obj\Debug\Прививки.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Прививки\obj\Debug\Прививки.exe
+C:\Users\User\source\repos\Прививки\obj\Debug\Прививки.pdb
+C:\Users\User\source\repos\Прививки\obj\Debug\Прививки.Form3.resources
+C:\Users\User\source\repos\Прививки\obj\Debug\Прививки.Form4.resources
+C:\Users\User\source\repos\Прививки\obj\Debug\Прививки.Form5.resources
